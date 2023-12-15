@@ -10,7 +10,7 @@ Ask me for what to outline.
 # Example
 Write an outline  for writing effective prompts for ChatGPT
 
-
+```
 Certainly! Here's the revised outline with the requested numbering format for writing effective prompts for ChatGPT:
 
 Understanding ChatGPT
@@ -66,3 +66,4 @@ Advanced Prompting Techniques
 4.3.2. Sequencing instructions effectively
 4.3.3. Ensuring clarity in each step
 Please let me know which bullet point you would like me to expand on further, and I'll create a more detailed outline for that section.
+```
